@@ -1,0 +1,10 @@
+> init
+<<<
++ g.txt notwug.txt
+> add g.txt
+<<<
+> commit "g is not a wug"
+<<<
+> find "Add another file"
+Found no commit with that message.
+<<<

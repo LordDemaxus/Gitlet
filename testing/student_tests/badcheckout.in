@@ -1,0 +1,4 @@
+I docommits.inc
+> checkout 5b0de50faa5365fe8f495090a3c0ecc164423d35 ++ wug.txt
+File does not exist in that commit.
+<<<*

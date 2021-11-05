@@ -1,0 +1,27 @@
+> init
+<<<
+> branch other
+<<<
+> branch other2
+<<<
+> checkout other
+<<<
++ g.txt notwug.txt
+> add g.txt
+<<<
+> commit "g is not a wug"
+<<<
+= g.txt notwug.txt
+> checkout other2
+<<<
++ f.txt wug.txt
+> add f.txt
+<<<
+> commit "f is a wug"
+<<<
+> checkout other
+<<<
+= g.txt notwug.txt
+> checkout other2
+<<<
+= f.txt wug.txt
